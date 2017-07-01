@@ -14,7 +14,7 @@
  
 ## The CONKART variable below determines where the art will be symlinked to ('conkyart' is the actual symlinked image):
 
-CONKART=$( echo "$HOME/.conky/mio/cover/01.jpg" )
+CONKART=$( echo "$HOME/.conky/cover/01.jpg" )
 
 # If cmus is running...
 if cmus-remote -Q &>/dev/null ; then
